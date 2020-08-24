@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tik</string>
+    <string name="welcome">Welcome</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_tic_tak_teo">Welcome To Tic Tak Teo</string>
+    <string name="tap_to_play">tap to play</string>
+</resources>
